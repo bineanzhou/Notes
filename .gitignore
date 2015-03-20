@@ -3,7 +3,4 @@ bin/
 gen/
 
 # Local configuration file (sdk path, etc)
-project.properties
-.settings/
-.classpath
-.project
+.settings
